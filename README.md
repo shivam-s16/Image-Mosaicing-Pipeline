@@ -1,1 +1,0 @@
-# Image-Mosaicing-Pipeline
